@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/": {},
+    "/barrios": {},
+    "/campanias": {},
+    "/encuestadores": {},
+    "/jornadas": {},
+    "/usuarios": {},
+    "/zonas": {}
+  }
+}
